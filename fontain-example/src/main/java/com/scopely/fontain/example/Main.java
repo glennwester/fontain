@@ -14,6 +14,7 @@ import com.scopely.fontain.enums.Slope;
 import com.scopely.fontain.enums.Weight;
 import com.scopely.fontain.enums.Width;
 import com.scopely.fontain.spans.FontSpan;
+import com.scopely.fontain.views.FontTextView;
 
 import java.io.File;
 import java.io.FileOutputStream;
